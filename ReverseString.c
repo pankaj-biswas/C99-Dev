@@ -12,9 +12,7 @@ void sample(void);
 
 int main()
 {
-	//Reverse_String("THIS IS TEXT");
-	sample();
-
+	Reverse_String("THIS IS TEXT");
 	return 0;
 }
 
